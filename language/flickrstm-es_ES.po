@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-21 22:23-0400\n"
+"PO-Revision-Date: 2016-03-21 22:24-0400\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:32 admin.php:498
+msgid "Shortcodes"
+msgstr "Códigos Cortos"
+
+#: admin.php:75
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+#: admin.php:77
+msgid "Flickr Api Key: "
+msgstr "Clave del Api de Flickr:"
+
+#: admin.php:79
+msgid "ex: your api key from Flickr"
+msgstr "ejemplo: la clave de API de Flickr"
+
+#: admin.php:82
+msgid "Include Lightbox Scripts: "
+msgstr "Incluya Scripts de Lightbox:"
+
+#: admin.php:84
+msgid "ex: check only if not using a Magnific Popup plugin"
+msgstr "ejemplo: marque sólo si no se utiliza un plugin de Popup de Magnific "
+
+#: admin.php:87
+#, fuzzy
+msgid "Photo Highlight Color: "
+msgstr "Alineación de Foto:"
+
+#: admin.php:90
+msgid "ex: color value in hex format (#ffffff) to use for photo highlights"
+msgstr ""
+
+#: admin.php:93
+msgid "Use Mobile Photo Viewer: "
+msgstr "Utilice Mobile Photo Viewer:"
+
+#: admin.php:95
+msgid ""
+"ex: check to use mobile photo viewer for mobile devices (adds about 77kb of "
+"code)"
+msgstr ""
+"ejemplo: seleccione para utilizar el visor de fotos para dispositivos "
+"móviles (añade 77kb de código)"
+
+#: admin.php:98 admin.php:450
+msgid "Save Changes"
+msgstr "Guardar los Cambios"
+
+#: admin.php:138
+msgid "Are you sure you want to delete this item?"
+msgstr "¿Usted esta seguro que desea eliminar este elemento?"
+
+#: admin.php:156 admin.php:537
+msgid "Create Shortcode"
+msgstr "Crear Código Corto"
+
+#: admin.php:158 admin.php:266
+msgid "Name: "
+msgstr "Nombre:"
+
+#: admin.php:160 admin.php:268
+msgid "ex: vanity name just for your reference"
+msgstr "ejemplo: nombre de la vanidad sólo para su referencia"
+
+#: admin.php:163 admin.php:271
+msgid "Type: "
+msgstr "Tipo:"
+
+#: admin.php:166 admin.php:276 photos_widget.php:104
+msgid "Album"
+msgstr ""
+
+#: admin.php:167 admin.php:276 photos_widget.php:104
+msgid "Gallery"
+msgstr "Galería"
+
+#: admin.php:169 admin.php:291
+msgid "ex: type of picture group"
+msgstr "ejemplo: tipo de grupo de imagen"
+
+#: admin.php:172 admin.php:294
+msgid "ID: "
+msgstr "ID: "
+
+#: admin.php:174
+msgid "ex: id of album or gallery"
+msgstr ""
+
+#: admin.php:177 admin.php:299
+msgid "Number Of Photos: "
+msgstr "Número de Fotos:"
+
+#: admin.php:193 admin.php:317
+msgid "ex: number of photos to display"
+msgstr "ejemplo: número de fotos a mostrar"
+
+#: admin.php:196 admin.php:320
+msgid "Photo Selection: "
+msgstr "Selección de Fotos:"
+
+#: admin.php:199 admin.php:325 photos_widget.php:152
+msgid "Beginning"
+msgstr "Comienzo"
+
+#: admin.php:200 admin.php:325 photos_widget.php:152
+msgid "Random"
+msgstr "Aleatorio"
+
+#: admin.php:202
+msgid "ex: how to select photos"
+msgstr "ejemplo: cómo seleccionar fotos"
+
+#: admin.php:205 admin.php:343
+msgid "Link Type: "
+msgstr "Tipo de Enlace:"
+
+#: admin.php:208 admin.php:348 photos_widget.php:175
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: admin.php:209 admin.php:348 photos_widget.php:175
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin.php:211 admin.php:362
+msgid "ex: how to open photo links"
+msgstr "ejemplo: cómo abrir enlaces de foto "
+
+#: admin.php:214 admin.php:365
+msgid "Thumbnail Size: "
+msgstr "Tamaño de Miniatura:"
+
+#: admin.php:217 admin.php:370
+msgid "Small"
+msgstr "Pequeño"
+
+#: admin.php:218 admin.php:370
+msgid "Medium"
+msgstr "Mediano"
+
+#: admin.php:220 admin.php:385
+msgid "ex: thumbnail size to use"
+msgstr "ejemplo: tamaño a usar en las miniaturas"
+
+#: admin.php:223 admin.php:388
+msgid "Photo Alignment: "
+msgstr "Alineación de Foto:"
+
+#: admin.php:226 admin.php:393
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin.php:227 admin.php:393
+msgid "Center"
+msgstr "Centro"
+
+#: admin.php:228 admin.php:393
+msgid "Right"
+msgstr "Derecha"
+
+#: admin.php:230 admin.php:408
+msgid "ex: alignment of photos in gallery/set"
+msgstr "ejemplo: alineación de las fotos en la galería/conjunto"
+
+#: admin.php:233 admin.php:411
+msgid "Cache Data: "
+msgstr "Datos en Caché:"
+
+#: admin.php:237 admin.php:424
+msgid "Hide Set/Gallery Title: "
+msgstr "Ocultar Título de Conjunto/Galería:"
+
+#: admin.php:241 admin.php:437
+msgid "Hide Captions: "
+msgstr "Ocultar títulos:"
+
+#: admin.php:245
+msgid "Save New Shortcode"
+msgstr "Guardar Nuevo Código Corto"
+
+#: admin.php:247 admin.php:453
+msgid "Go Back"
+msgstr "Regresar"
+
+#: admin.php:264
+msgid "Edit Shortcode"
+msgstr "Modificar Código Corto"
+
+#: admin.php:296
+msgid " ex: id of set or gallery"
+msgstr "ejemplo: id del conjunto o galería"
+
+#: admin.php:340
+msgid "ex: how to select photos from Flickr"
+msgstr "ejemplo: como seleccionar fotos desde Flickr"
+
+#: admin.php:457
+msgid "Preview: "
+msgstr "Vista previa:"
+
+#: admin.php:479 frontend.php:183 photos_widget.php:41
+msgid "ERROR: BAD API KEY OR FLICKR API CALL"
+msgstr ""
+
+#: admin.php:522
+msgid "Edit"
+msgstr "Modificar"
+
+#: admin.php:523
+msgid "Delete"
+msgstr "Eliminar"
+
+#: admin.php:542
+msgid "FAQ's"
+msgstr "FAQ’s"
+
+#: admin.php:590
+msgid "Settings saved"
+msgstr "Configuración guardada"
+
+#: admin.php:592
+msgid "Oops... something went wrong or there were no changes needed"
+msgstr "Uy ... algo salió mal o no hubo cambios necesarios"
+
+#: admin.php:623 admin.php:697
+msgid "Oops... all form fields must have a value"
+msgstr ""
+
+#: admin.php:631 admin.php:705
+msgid ""
+"Oops... Some unknown error has occurred. If this persists, please contact "
+"the developer"
+msgstr ""
+
+#: admin.php:639 admin.php:713
+msgid "Oops... You have not provided a valid API Key in the settings menu."
+msgstr ""
+
+#: admin.php:639 admin.php:713
+msgid "Enter your key"
+msgstr ""
+
+#: admin.php:654 admin.php:728
+msgid ""
+"Oops... Either your API key is invalid or there has been an issue contacting "
+"the Flickr Api."
+msgstr ""
+
+#: admin.php:665
+msgid "Shortcode created"
+msgstr "Códico corto creado"
+
+#: admin.php:667 admin.php:738
+msgid "Oops... something went wrong"
+msgstr "Uy ... algo salió mal "
+
+#: admin.php:736
+msgid "Shortcode updated"
+msgstr "Código corto actualizado"
+
+#: admin.php:751
+msgid "Shortcode deleted"
+msgstr "Código corto eliminado"
+
+#: class/fsWPListTableBase.class.php:192
+msgid "No items found."
+msgstr "No se encontraron elementos."
+
+#: class/fsWPListTableBase.class.php:316
+msgid "Bulk Actions"
+msgstr "Acciones en Bloque"
+
+#: class/fsWPListTableBase.class.php:326
+msgid "Apply"
+msgstr "Aplicar"
+
+#: class/fsWPListTableBase.class.php:410
+msgid "Show all dates"
+msgstr "Mostrar todas las fechas"
+
+#: class/fsWPListTableBase.class.php:423
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: class/fsWPListTableBase.class.php:439
+msgid "List View"
+msgstr "Vistas de Lista"
+
+#: class/fsWPListTableBase.class.php:440
+msgid "Excerpt View"
+msgstr "Vista de Extracto"
+
+#: class/fsWPListTableBase.class.php:466
+#, php-format
+msgid "%s pending"
+msgstr "%s pendiente"
+
+#: class/fsWPListTableBase.class.php:721
+msgid "Select All"
+msgstr "Seleccionar Todos"
+
+#: frontend.php:90 frontend.php:123
+msgid "Close (Esc)"
+msgstr "Cerrar (Esc)"
+
+#: frontend.php:161 frontend.php:187
+msgid "ERROR: INVALID SHORTCODE ID"
+msgstr "ERROR: ID DE CÓDIGO CORTO INVÁLIDO"
+
+#: photos_widget.php:19
+msgid "Display a Flickr album or gallery"
+msgstr ""
+
+#: photos_widget.php:98
+msgid "Type:"
+msgstr "Tipo:"
+
+#: photos_widget.php:121
+msgid "ID:"
+msgstr "ID:"
+
+#: photos_widget.php:125
+msgid "# Of Photos"
+msgstr "# De Fotos:"
+
+#: photos_widget.php:146
+msgid "Photo Selection:"
+msgstr "Selección de Foto:"
+
+#: photos_widget.php:169
+msgid "Link Type:"
+msgstr "Tipo de Enlace:"
+
+#: photos_widget.php:202
+msgid "Hide Gallery/Set Title"
+msgstr "Ocultar Título de Galería/Conjunto "
+
+#: photos_widget.php:213
+msgid "Cache Data"
+msgstr "Datos en Caché"
+
+#: photos_widget.php:224
+msgid "Hide Captions"
+msgstr "Ocultar Títulos"
+
+#~ msgid "Set"
+#~ msgstr "Conjunto"
+
+#~ msgid "ex: id of set or gallery"
+#~ msgstr "por ejemplo: Identificación de conjuntos o galerias"
+
+#~ msgid "Display a Flickr photoset or gallery"
+#~ msgstr "Mostrar un conjunto de fotos o galerias de Flickr "
